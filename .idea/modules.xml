@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestaurantTrackerSpring.iml" filepath="$PROJECT_DIR$/.idea/modules/RestaurantTrackerSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestaurantTrackerSpring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RestaurantTrackerSpring_main.iml" group="RestaurantTrackerSpring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestaurantTrackerSpring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RestaurantTrackerSpring_test.iml" group="RestaurantTrackerSpring" />
+    </modules>
+  </component>
+</project>
